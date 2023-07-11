@@ -20,7 +20,7 @@
 .header-image{
     width:420px;
     margin-top:34px;
-    margin-right: 50px;
+    margin-right: 100px;
 }
 .primary-btn{
     padding:15px 28px;
@@ -34,3 +34,142 @@
     color:#85888a;
     margin-top:30px;
 }
+.contrain{
+    margin-left: 100px;
+}
+
+/* This is a main section */
+
+.Primary-heading{
+    text-align: center;
+    padding:120px 0px 0px;
+    font-size: 30px;
+    color:#272727;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.second-paragraph{
+    text-align:center;
+    color:#85888a;
+    margin-top: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img-contrainer{
+    display:flex;
+  justify-content: center;
+    height: 380px;
+    margin-top:50px;
+    gap: 20px;
+}
+.image{
+    width:215px;
+    padding-left:55px;
+    padding-top: 84px;
+
+}
+.first-image{
+    background-color: #f1dde7;
+    width:330px;
+    border-radius: 10rem 10rem 0rem 0rem;
+    
+}
+.second-image{
+    background-color: #d9eff0;
+    width:330px;
+    border-radius: 10rem 10rem 0rem 0rem;
+
+}
+.third-image{
+    background-color: #e3ebdb;
+    width:330px;
+    border-radius: 10rem 10rem 0rem 0rem;
+}
+.flower-image{
+    
+    width: 250px;
+}
+.yellow-flower-image{
+    width:253px;
+    padding-left:40px;
+}
+.flower-item{
+    display:flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top:25px;
+    
+}
+.image-headline{
+    color:#272727;
+}
+
+
+.sign-up-contrainer{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:75vh;
+    background-color: #fdf6f8;
+    gap:110px;
+    margin-top:80px;
+
+}
+
+.hot-deal{
+    font-size: 30px;
+    color:#272727;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.off{
+    color:#e55473;
+}
+.sign-up{
+    margin-left:170px;
+
+}
+
+.red-flower{
+    width:220px;
+    margin-bottom: 70px;
+    
+}
+.text{
+    margin-left:80px
+}
+
+.flower-img-contrainer{
+    display:flex;
+    justify-content: center;
+      height: 280px;
+      margin-top:50px;
+      gap: 17px;
+      
+}
+.instagram-heading{
+    text-align: center;
+    padding:80px 0px 0px;
+    font-size: 30px;
+    color:#272727;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.flower-oicture{
+    width:230px;
+
+}
+
+.subscribe-section{
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    margin:80px 188px
+}
+.deals{
+    /* padding:200px */
+}
+.input-email{
+    width:500px;
+    height:40px;
+    border-radius:5px;
+    border:none;
+}
+
