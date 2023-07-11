@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+/* This ia a header section */
+.header{
+    height:90vh;
+    background-color:#fceef1;
+}
+.header-title{
+    font-size:55px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.header-contrainer{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.header-image{
+    width:420px;
+    margin-top:34px;
+    margin-right: 50px;
+}
+.primary-btn{
+    padding:15px 28px;
+    border-radius:8px;
+    border:none;
+    background-color: #E55473;
+    color:white;
+    margin-top:38px;
+}
+.primary-paragraph{
+    color:#85888a;
+    margin-top:30px;
+}
