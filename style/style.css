@@ -161,7 +161,7 @@
 
 .subscribe-section{
     background-image: url('../Flower Asset/Rectangle\ 9.png');
-    margin:80px 188px;
+    margin:80px 188px 0px 188px;
     border-radius: 8px;
     background-repeat: no-repeat;
     background-size: 1000px;
@@ -188,5 +188,12 @@
 }
 .input-contrainer{
     margin-left:180px
+}
+
+.footer{
+    height:50vh;
+    background-color: #111010;
+    color:white;
+    text-align: center;
 }
 
