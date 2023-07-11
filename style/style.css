@@ -161,15 +161,32 @@
 
 .subscribe-section{
     background-image: url('../Flower Asset/Rectangle\ 9.png');
-    margin:80px 188px
+    margin:80px 188px;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    height:70vh;
 }
 .deals{
-    /* padding:200px */
+    padding:80px;
+    padding-bottom:0px;
 }
+.shopping{
+    text-align:center;
+    color:#85888a;
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
 .input-email{
     width:500px;
-    height:40px;
+    
     border-radius:5px;
     border:none;
+    padding:15px;
+}
+.input-contrainer{
+    margin-left:180px
 }
 
