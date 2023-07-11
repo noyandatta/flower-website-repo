@@ -103,6 +103,39 @@
     color:#272727;
 }
 
+.help{
+    height:30vh;
+    display:flex;
+    background-color: #f4f4f4;
+    margin:80px 158px 0px 158px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap:30px
+}
+
+.asset-flower{
+    width:50px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+
+.asset-two-flower{
+    width:50px;
+    margin-left: 70px;
+    margin-bottom: 5px;
+
+}
+
+.asset-three-flower{
+    width:50px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+
+}
+.help-para{
+    margin-right:30px
+}
 
 .sign-up-contrainer{
     display:flex;
